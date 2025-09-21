@@ -1,4 +1,5 @@
-# 中国地质大学（武汉）地理与信息工程学院 遥感 本科课程作业
+# 中国地质大学（武汉）地理与信息工程学院
+# 遥感科学与技术 本科课程作业
 ## 1.大地测量学
 ### 1.1.[白塞尔主题解算小程序exe&源码](https://github.com/Adhara666/CUG_RS_Undergraduate_Coursework/tree/main/Bessel)
   * 使用Qt6 C++开发
